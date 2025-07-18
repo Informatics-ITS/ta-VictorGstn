@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cd05321f1c283c82b2cc736da5d808b, type: 3}
+  m_Name: Eraser
+  m_EditorClassIdentifier: 
+  entryName: Eraser
+  infoText: "Removing malware payloads (e.g., deleting ransomware\u2019s encryption
+    module).\nExample: Tools like Malwarebytes stripping adware from a browser.\n-
+    Best for: Trojan or other malware where their payload is often the only malicious
+    part.\n\nRootkits hide deep in systems (kernel level), making them hard to remove.\nTools
+    like GMER dig them out forcibly.\n- Best for: Stealthy malware that bury themselves
+    at the system level such as spyware.\n"

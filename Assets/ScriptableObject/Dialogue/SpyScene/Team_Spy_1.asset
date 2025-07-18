@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5875da0224d65542b51970d5830a679, type: 3}
+  m_Name: Team_Spy_1
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Patcher
+    text: Hey, how does it go.
+  - speakerName: Scanner
+    text: The team going to the capital got ambushed. There seems to be spyware in
+      here.
+  - speakerName: Scanner
+    text: We're supposed to exterminate them tonight.
+  - speakerName: Eraser
+    text: Spyware huh, easy. We'll just smash every shadow we see.
+  - speakerName: Patcher
+    text: Not exactly right, but we should check every nook and cranny.
+  - speakerName: Scanner
+    text: Thats right.
+  - speakerName: Scanner
+    text: Lets rest for now and regroup here at night.

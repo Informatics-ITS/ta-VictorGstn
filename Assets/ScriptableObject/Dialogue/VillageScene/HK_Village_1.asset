@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5875da0224d65542b51970d5830a679, type: 3}
+  m_Name: HK_Village_1
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Head Knight
+    text: "You did it. The Spyware\u2019s been purged\u2014no more leaks. Good work."
+  - speakerName: Head Knight
+    text: "But the capital is still under Ransomware\u2019s grip. And time\u2019s
+      running out."
+  - speakerName: Scanner
+    text: "What\u2019s the plan?"
+  - speakerName: Head Knight
+    text: "Ransomware\u2019s holding the city hostage, but it can\u2019t corrupt
+      everything. "
+  - speakerName: Head Knight
+    text: "There\u2019s a City Core deep in the dungeon beneath Silverhaven\u2014a
+      backup of its vital systems. Retrieve it, and we can restore order."
+  - speakerName: Scanner
+    text: Then we should go there immediately.
+  - speakerName: Head Knight
+    text: "Not yet. The path\u2019s blocked. A village along the route\u2019s been
+      turned into a Botnet hive."
+  - speakerName: Head Knight
+    text: Clear it out, secure the road, then we storm the city.
+  - speakerName: Scanner
+    text: Understood.
+  - speakerName: Head Knight
+    text: Good luck.

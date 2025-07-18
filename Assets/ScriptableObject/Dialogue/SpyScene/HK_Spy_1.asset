@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5875da0224d65542b51970d5830a679, type: 3}
+  m_Name: HK_Spy_1
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Head Knight
+    text: "Scanner. Your work in the Plains was flawless. You\u2019ve done the kingdom
+      a service.\""
+  - speakerName: Scanner
+    text: Thank you, sir. How about the other knights?
+  - speakerName: Head Knight
+    text: ...
+  - speakerName: Head Knight
+    text: "The knights we sent were ambushed halfway. No survivors. And the attack
+      was too precise\u2014too timed."
+  - speakerName: Scanner
+    text: You think they knew our movements.
+  - speakerName: Head Knight
+    text: "I know they did. There\u2019s Spyware in this base. Feeding them everything\u2014deployments,
+      defenses, weaknesses."
+  - speakerName: Head Knight
+    text: Tonight, you hunt it. Root it out. Leave no trace unchecked.
+  - speakerName: Scanner
+    text: "Understood. We\u2019ll find it before dawn."
+  - speakerName: Head Knight
+    text: "See that you do. And Scanner\u2026 trust no one. Not even the shadows."

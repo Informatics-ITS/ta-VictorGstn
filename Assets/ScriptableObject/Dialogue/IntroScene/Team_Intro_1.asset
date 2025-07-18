@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5875da0224d65542b51970d5830a679, type: 3}
+  m_Name: Team_Intro_1
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Patcher
+    text: There you are!
+  - speakerName: Eraser
+    text: "Took you long enough. Thought you\u2019d gotten lost in your own head
+      again."
+  - speakerName: Patcher
+    text: "Hey, don\u2019t tease. We need their focus sharp\u2014especially after
+      last time."
+  - speakerName: Patcher
+    text: "Speaking of\u2026 Your analysis saved us when that Mimic Malware split
+      into fragments. Good work."
+  - speakerName: Eraser
+    text: "Yeah, yeah. But I\u2019m the one who smashed the core. Scanners get the
+      glory, Erasers get the sweat."
+  - speakerName: Patcher
+    text: 'Our roles are clear: You scan for weaknesses. Hans erases the corruption.
+      I patch the damage.'
+  - speakerName: patcher
+    text: "But we can\u2019t stand around all day. The Commanders want reports."
+  - speakerName: Eraser
+    text: "Try not to overthink it, Scanner. Just point, and I\u2019ll smash."

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5875da0224d65542b51970d5830a679, type: 3}
+  m_Name: HK_Intro_1
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Head Knight
+    text: "Scanner. Good\u2014you\u2019re here. We\u2019ve got a surge of low-tier
+      Viruses spreading in the Western Plains. Nothing your team can\u2019t handle,
+      but they\u2019re breeding faster than we predicted."
+  - speakerName: Scanner
+    text: "Understood. We\u2019ll clear them out as fast as we can."
+  - speakerName: Head Knight
+    text: See that you do. But keep your guard up. We've got bad news.
+  - speakerName: Head Knight
+    text: "The capital's taken hostage by ransomware. Whole system\u2019s locked
+      down."
+  - speakerName: Head Knight
+    text: We've sent a band of knights there but we haven't heard from then since.
+  - speakerName: Head Knight
+    text: "But anyway, your mission\u2019s simpler: Thin the herd in the Plains.
+      If you spot anything abnormal\u2014corrupted data, strange code\u2014report
+      it immediately."
+  - speakerName: Scanner
+    text: "We won\u2019t let anything slip through."
+  - speakerName: Head Knight
+    text: "I know you won\u2019t. Dismissed."

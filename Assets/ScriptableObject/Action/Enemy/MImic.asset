@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64fa49ae6e8cb47ebb1323baffe5d749, type: 3}
+  m_Name: MImic
+  m_EditorClassIdentifier: 
+  actionName: Mimic
+  targetingType: 2
+  mimicSprites:
+  - {fileID: 8859225441076862958, guid: d192afb3c7befbbd986bd12817362503, type: 3}
+  - {fileID: 5162768687187193245, guid: c5fd42e30cacd5a8885e2226c3bf1384, type: 3}
+  - {fileID: -3203033049894974712, guid: 88bd8f70bb248b9db86bdf4629b940fd, type: 3}
+  mimicNames:
+  - eraser
+  - patcher
+  - scanner
+  confusionDuration: 2

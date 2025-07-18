@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5875da0224d65542b51970d5830a679, type: 3}
+  m_Name: Team_Final_1
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Scanner
+    text: It's time.
+  - speakerName: Eraser
+    text: FInally huh.
+  - speakerName: Patcher
+    text: What can we expect to find there?
+  - speakerName: Scanner
+    text: Worms and trojan
+  - speakerName: Patcher
+    text: They are troublesome on their own way.
+  - speakerName: Patcher
+    text: Worm can replicate, and trojan can mimic others.
+  - speakerName: Eraser
+    text: Its all the same when they meet my fist.
+  - speakerName: Patcher
+    text: You...
+  - speakerName: Scanner
+    text: Let's just go
