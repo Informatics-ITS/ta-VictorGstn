@@ -1,17 +1,17 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Victor Gustinova
+**NRP**: 5025211159
+**Judul TA**: Pengembangan Permainan Edukasi Ancaman dan Pertahanan Malware: Desain dan Implementasi
+**Dosen Pembimbing**: Baskoro Adi Pratomo, S.Kom., M.Kom., Ph.D.
+**Dosen Ko-pembimbing**: Hadziq Fabroyir, S.Kom., Ph.D. 
 
 ---
 
 ## 📺 Demo Aplikasi  
 Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
 
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=4zqpZMqO3Wc)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
@@ -21,11 +21,7 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 ## 🛠 Panduan Instalasi & Menjalankan Software  
 
 ### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+- Unity Ver
 
 ### Langkah-langkah  
 1. **Clone Repository**  
